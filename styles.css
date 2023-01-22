@@ -3,15 +3,15 @@
 .Accio{
 	width:150px;
 	height:150px;
-	background color:black;
+	background-color:black;
 	#Job{
 width:150px;
 	height:150px;
-	background color:black;
+	background-color:black;
 	}
 }
 .hello-accio-job{
-	text color:white;
+	color:white;
 	margin left:32px;
 	padding:10px;
 }
